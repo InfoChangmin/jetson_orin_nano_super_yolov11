@@ -5,6 +5,10 @@
 # NVIDIA Jetson Nano Developer Kit using OpenCV
 # Drivers for the camera and OpenCV are included in the base image
 
+# 반드시 아래의 영상을 보고 핀배치를 변경하여야 합니다.
+# https://youtu.be/gJPIJ3yxME0?si=KIwszPFbYbpaVrBu
+
+
 import cv2
 print(cv2.__version__)
 """ 
